@@ -16,7 +16,7 @@ int main(void)
 	for (count = 0 ; count < 10 ; count++)
 	{
 		j = j + 1;
-		for (1 = 0 ; i < 10; 1++)
+		for (i = 0 ; i < 10; i++)
 		{
 			x = x + 1;
 
@@ -35,7 +35,7 @@ int main(void)
 		}
 		y = y + 1;
 
-		x + y;
+		x = y;
 	}
 	putchar('\n');
 	return (0);
