@@ -11,7 +11,7 @@ int main(void)
 	int i;
 	char j;
 
-	for  (i = 25; i >= 0; i--)
+	for (i = 25; i >= 0; i--)
 	{
 		j = alpha[i];
 		putchar(j);
