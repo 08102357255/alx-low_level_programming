@@ -28,7 +28,7 @@ int main(void)
 				putchar(x + '0');
 				if (j == 8 && x == 9)
 					break;
-				putchar('',');
+				putchar(',');
 				putchar(' ');
 			}
 
