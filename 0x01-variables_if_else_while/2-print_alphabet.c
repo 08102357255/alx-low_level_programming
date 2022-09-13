@@ -1,4 +1,4 @@
-#iclude <stdio.h>
+#include <stdio.h>
 /**
  * main - lowercase 
  *
@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	charlower[26] = "abcdefghijklmnopqrstuvwxyz";
+	char lower[26] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
 
 	for (i = 0; i < 26; i++)
