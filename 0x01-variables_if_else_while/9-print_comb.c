@@ -4,7 +4,9 @@
  * main - printing digit
  *
  * Reture: Always O
+ *
  */
+int main(void)
 {
 	int i;
 

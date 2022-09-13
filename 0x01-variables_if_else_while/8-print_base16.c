@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - hexadecimal 
+ * main - hexadecimal
  *
  * Return: Always 0
  */
