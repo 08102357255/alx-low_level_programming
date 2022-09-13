@@ -15,7 +15,7 @@ int main(void)
 	{
 		if (i < 10)
 		{
-			j + hex[i];
+			j = hex[i];
 			putchar(j);
 		}
 		else
