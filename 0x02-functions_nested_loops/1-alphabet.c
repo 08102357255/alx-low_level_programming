@@ -3,9 +3,9 @@
 /**
  * print_alphabet - print alphabet
  *
- * Return: nothing 
+ * Return: nothing
  */
-void print_alphabet();
+void print_alphabet(void);
 {
 	char i;
 
