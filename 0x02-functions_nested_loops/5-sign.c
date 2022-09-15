@@ -16,10 +16,10 @@ int print_sign(int n)
 
 	else if (n < 0)
 	{
-		_putcher('_');
+		_putchar('_');
 		return (-1);
 	}
 	else
-		_putcher('0');
+		_putchar('0');
 	return (0);
 }
