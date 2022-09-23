@@ -9,7 +9,7 @@ int equal(char *s1, char *s2);
  * @s1:first string
  * @s2: second string
  *
- * Author: ITANDAYO ADEKALE
+ * Author: Itandayo Adekale 
  * Return: 0 if equal , > 0 if s1 > s2 and < 0 if first non matching character
  * in s2 is greater than s1
  */
@@ -37,7 +37,7 @@ int f_greater(char *s1, char *s2)
 {
 	int i;
 	int len_s2 = strlen(s2);
-	
+
 	for (i = 0; i < len_s2; i++)
 	{
 		if (s2[i] > s1[i])
