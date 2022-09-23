@@ -6,7 +6,7 @@
  *@dest: string to append to
  *@n: number of string to concat to dest variable
  *@src: string that is going to be appended
- * Author: Lawal Afeez
+ * Author: Itandayo Adekale
  * Return: pointer/string
  */
 char *_strncat(char *dest, char *src, int n)
