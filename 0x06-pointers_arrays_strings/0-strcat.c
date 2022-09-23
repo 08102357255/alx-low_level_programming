@@ -5,7 +5,7 @@
  *
  *@dest: string to append to
  *@src: string that is going to be appended
- * Author: Lawal Afeez
+ * Author: Itandayo Adekale
  * Return: pointer/string
  */
 char *_strcat(char *dest, char *src)
