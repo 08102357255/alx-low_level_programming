@@ -9,7 +9,7 @@ int equal(char *s1, char *s2);
  * @s1:first string
  * @s2: second string
  *
- * Author: LAWAL AFEEZ
+ * Author: ITANDAYO ADEKALE
  * Return: 0 if equal , > 0 if s1 > s2 and < 0 if first non matching character
  * in s2 is greater than s1
  */

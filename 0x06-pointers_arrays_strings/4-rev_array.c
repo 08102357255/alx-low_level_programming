@@ -4,7 +4,6 @@
 #include <stdio.h>
 
 /**
- *
  * reverse_array - reverse an array
  *
  * @a: array to be reversed
